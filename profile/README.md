@@ -5,5 +5,5 @@
 # 標準
 ・Maven
 
-権利
+# 権利
 ©NANDEYANEN All rights reserved.
